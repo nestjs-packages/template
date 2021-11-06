@@ -14,7 +14,8 @@
     "prepublish:npm": "npm run build",
     "publish:npm": "npm publish --access public",
     "test:e2e": "jest --config ./tests/jest-e2e.json --runInBand",
-    "test:e2e:dev": "jest --config ./tests/jest-e2e.json --runInBand --watch"
+    "test:e2e:dev": "jest --config ./tests/jest-e2e.json --runInBand --watch",
+    "release": "release-it"
   },
   "bugs": {
     "url": "https://github.com/nestjs-packages/datadog/issues"
