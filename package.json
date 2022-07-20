@@ -25,16 +25,16 @@
     "url": "git+https://github.com/nestjs-packages/datadog.git"
   },
   "peerDependencies": {
-    "@nestjs/common": "^8.0.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/common": "^8.0.0 || ^9.0.0",
+    "@nestjs/core": "^8.0.0 || ^9.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-angular": "17.0.3",
-    "@nestjs/common": "8.4.7",
-    "@nestjs/core": "8.4.7",
+    "@nestjs/common": "9.0.5",
+    "@nestjs/core": "9.0.5",
     "@types/jest": "27.5.2",
     "@types/node": "16.11.45",
     "@typescript-eslint/eslint-plugin": "5.30.7",
