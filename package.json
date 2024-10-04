@@ -46,7 +46,7 @@
     "jest": "27.5.1",
     "prettier": "3.3.3",
     "reflect-metadata": "0.1.14",
-    "release-it": "17.6.0",
+    "release-it": "17.7.0",
     "rimraf": "3.0.2",
     "rxjs": "7.8.1",
     "ts-jest": "27.1.5",
