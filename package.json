@@ -44,7 +44,7 @@
     "eslint-plugin-import": "2.32.0",
     "husky": "9.1.7",
     "jest": "27.5.1",
-    "prettier": "3.6.1",
+    "prettier": "3.6.2",
     "reflect-metadata": "0.1.14",
     "release-it": "19.0.3",
     "rimraf": "3.0.2",
